@@ -6,14 +6,16 @@
 
 
 * Make an organization
-* Add JonAlf as collab (live(
+* Add JonAlf as collab (live)
 * Part 1
 - show adding files / directories to github from GUIdance
 - Edit README.md to show markdown from GUI
+- Show preview tab from edit page on GitHub
 ** Part 2 - GitHub Pages
 - make a new repo
 - turn on github pages (no theme)
 - create some html files
+- maybe show history from command line (commit comments)
 * Part 3 - Jekyll
 - Introduce Jekyll
 - make a repo with an .md file and turn on pages (no theme)
