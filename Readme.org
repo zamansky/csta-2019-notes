@@ -1,5 +1,8 @@
 * Resources:
 
+- Jekyll Themes: https://pages.github.com/themes/
+- GitHub markdown:
+  https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 
 * Make an organization
