@@ -1,0 +1,59 @@
+* Resources:
+
+
+
+* Make an organization
+* Add JonAlf as collab (live(
+* Part 1
+- show adding files / directories to github from GUIdance
+- Edit README.md to show markdown from GUI
+** Part 2 - GitHub Pages
+- make a new repo
+- turn on github pages (no theme)
+- create some html files
+* Part 3 - Jekyll
+- Introduce Jekyll
+- make a repo with an .md file and turn on pages (no theme)
+- Make an index
+- add a theme - note title: in _config.yml vs web page
+
+* Part 4 - Blog
+
+- Use this as main page
+#+BEGIN_SRC 
+---
+layout: default
+title: My Test Blog
+---
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/test-for-csta/test-for-csta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+#+END_SRC
+
+- and under _posts with date-title.md filenames
+  #+BEGIN_SRC 
+---
+layout: default
+title:  "Welcome to Jekyll!"
+date:   2016-02-12 17:50:00
+categories: main
+---
+This is a post
+  
+  #+END_SRC
+
+* Final steps
+- show making repo orgname.github.io
+- show jekyll resources
