@@ -16,9 +16,12 @@
 - turn on github pages (no theme)
 - create some html files
 - maybe show history from command line (commit comments)
+
 * Part 3 - Jekyll
 - Introduce Jekyll
 - make a repo with an .md file and turn on pages (no theme)
+- you don't need a _config.yml but it will put in title up top
+
 - Make an index
 - add a theme - note title: in _config.yml vs web page
 
