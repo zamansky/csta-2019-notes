@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 * Resources:
 
 - Jekyll Themes: https://pages.github.com/themes/
@@ -21,7 +22,7 @@
 - Introduce Jekyll
 - make a repo with an .md file and turn on pages (no theme)
 - you don't need a _config.yml but it will put in title up top
-
+- make a _config.yml with a new title
 - Make an index
 - add a theme - note title: in _config.yml vs web page
 
