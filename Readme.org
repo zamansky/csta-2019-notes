@@ -15,7 +15,7 @@
 - Show preview tab from edit page on GitHub
 - upload a file into a code directory and link to it
 - show links in general 
-** Part 2 - GitHub Pages
+* Part 2 - GitHub Pages
 - make a new repo
 - turn on github pages (no theme)
 - create some html files
