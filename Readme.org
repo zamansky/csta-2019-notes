@@ -6,12 +6,15 @@
   https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 
+
 * Make an organization
 * Add JonAlf as collab (live)
 * Part 1
 - show adding files / directories to github from GUIdance
 - Edit README.md to show markdown from GUI
 - Show preview tab from edit page on GitHub
+- upload a file into a code directory and link to it
+- show links in general 
 ** Part 2 - GitHub Pages
 - make a new repo
 - turn on github pages (no theme)
